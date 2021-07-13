@@ -15,3 +15,4 @@ The initial part of the project contains numerical computations on numerical tec
 1. [Finite Difference Method in 1 Variable](https://github.com/sohamphanseiitb/Topology-Optimization-of-Hierarchial-Structures/blob/main/Finite_difference_Function_of_one_variable.py)
 2. [Backward and Forward Euler](https://github.com/sohamphanseiitb/Topology-Optimization-of-Hierarchial-Structures/blob/main/Forward%20and%20Backward%20Euler.py)
 3. [Gradient Descent](https://github.com/sohamphanseiitb/Topology-Optimization-of-Hierarchial-Structures/blob/main/gradient_descent_poly.py)
+4. [A General Polynomial Integrator based on the Simpson's Rule](https://github.com/sohamphanseiitb/Topology-Optimization-of-Hierarchial-Structures/blob/main/poly_integrator.py)
